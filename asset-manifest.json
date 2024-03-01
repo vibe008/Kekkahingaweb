@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kekkahingaweb/static/css/main.59f682b7.css",
+    "main.js": "/Kekkahingaweb/static/js/main.c9c1b056.js",
+    "static/js/453.f02f57f3.chunk.js": "/Kekkahingaweb/static/js/453.f02f57f3.chunk.js",
+    "index.html": "/Kekkahingaweb/index.html",
+    "main.59f682b7.css.map": "/Kekkahingaweb/static/css/main.59f682b7.css.map",
+    "main.c9c1b056.js.map": "/Kekkahingaweb/static/js/main.c9c1b056.js.map",
+    "453.f02f57f3.chunk.js.map": "/Kekkahingaweb/static/js/453.f02f57f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59f682b7.css",
+    "static/js/main.c9c1b056.js"
+  ]
+}
