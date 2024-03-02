@@ -1,0 +1,31 @@
+.paymentcontainer{
+    /* height: 400px; */
+    width: 90%;
+    margin: 20px auto;
+}
+.paymentCard{
+    background-color: pink;
+    /* height: 200px; */
+    /* width: 100%; */
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    align-items: center;
+    border-radius: 10px;
+}
+.paymentbtn{
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+.alreadySubscriptions{
+    width: 80%;
+    margin: 20px auto;
+    /* background: red; */
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+}
